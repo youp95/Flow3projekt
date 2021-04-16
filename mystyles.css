@@ -1,0 +1,52 @@
+
+
+
+.navbar{
+    background-color: #c2b6b6;
+}
+
+
+.navbar-nav {
+    color: blanchedalmond;
+    
+}
+
+.nav-link { 
+    text-decoration: none;
+    color: white;
+
+}
+
+h1 {
+    color: #606060;
+    font-family: georgia, serif;
+    letter-spacing: 2px;
+    margin-top: 50px;
+    margin-bottom: 5px;
+   
+}
+
+h3{
+    color: #606060;
+    font-family: georgia, serif;
+    margin-top: 60px;
+    margin-bottom: 5px;
+    letter-spacing: 1,5px;
+    
+}
+
+p{
+    font-family: georgia, serif;
+    text-align:inherit;
+    max-width: 93%;
+    
+}
+
+.col-md-6{
+
+    float: left;
+}
+
+img{
+    margin-top: 60px;
+}
